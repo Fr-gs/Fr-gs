@@ -1,5 +1,11 @@
 ### Ribbit :(¦) , My name is Fr_g
 #### Skidding
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Fr-gs" alt="profile-views"/>
+  <a href="https://discord.gg/gFtAErKXfr"><img src="https://img.shields.io/discord/689197705683140636?logo=discord" alt="Discord"/></a>
+</div>
+
 ![Skidding](https://cdn.discordapp.com/attachments/856685509169643521/858423116501221436/bbcb5313125b8f4209f6c9826ed93cf7.jpeg)
 
 I'm Fr_g from Belgium, I'm learning how to code with python and do some other cool stuff like html.
@@ -15,8 +21,3 @@ Skills: Messing with stuff untill it works
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Fr-gs)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://fr-gs.github.io/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/gFtAErKXfr)  
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Fr-gs" alt="profile-views"/>
-  <a href="https://discord.gg/gFtAErKXfr"><img src="https://img.shields.io/discord/689197705683140636?logo=discord" alt="Discord"/></a>
-</div>
