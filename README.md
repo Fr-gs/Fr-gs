@@ -1,4 +1,4 @@
-### Hi there 👋, My name is Fr_g
+### Ribbit :(¦) , My name is Fr_g
 #### Skidding
 ![Skidding](https://cdn.discordapp.com/attachments/856685509169643521/858423116501221436/bbcb5313125b8f4209f6c9826ed93cf7.jpeg)
 
