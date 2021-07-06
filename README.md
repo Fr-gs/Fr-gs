@@ -3,7 +3,7 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Fr-gs" alt="profile-views"/>
-  <a href="https://discord.gg/gFtAErKXfr"><img src="https://img.shields.io/discord/689197705683140636?logo=discord" alt="Discord"/></a>
+  <a href="https://discord.gg/gFtAErKXfr"><img src="https://img.shields.io/discord/776865104167436318?logo=discord" alt="Discord"/></a>
 </div>
 
 ![Skidding](https://cdn.discordapp.com/attachments/856685509169643521/858423116501221436/bbcb5313125b8f4209f6c9826ed93cf7.jpeg)
