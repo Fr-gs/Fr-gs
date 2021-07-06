@@ -16,4 +16,7 @@ Skills: Messing with stuff untill it works
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Fr-gs)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://fr-gs.github.io/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/gFtAErKXfr)  
 
-![Profile views](https://gpvc.arturio.dev/Fr-gs)  
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Fr-gs" alt="profile-views"/>
+  <a href="https://discord.gg/gFtAErKXfr"><img src="https://img.shields.io/discord/689197705683140636?logo=discord" alt="Discord"/></a>
+</div>
