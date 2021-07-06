@@ -17,7 +17,7 @@ Skills: Messing with stuff untill it works
 - 🌱 I’m currently learning Python and html 
 - 🤔 I’m looking for help with Python and html 
 - 📫 How to reach me: You can reach me on discord my username is Fr_g#0001 
-- ⚡ Fun fact: I love frogs 
+- 🐸 I love frogs 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Fr-gs)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://fr-gs.github.io/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/gFtAErKXfr)  
